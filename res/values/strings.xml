@@ -1,0 +1,32 @@
+<resources>
+
+    <string name="app_name">Pizza Delivery</string>
+    <string name="settings_label">Settings</string>
+    <string name="help_label">Help</string>
+    <string name="small_label">Small</string>
+<string name="medium_label">Medium</string>
+<string name="large_label">Large</string>
+<string name="party_label">Party</string>
+<string name="thin_label">Thin</string>
+<string name="thick_label">Thick</string>
+<string name="deepdish_label">Deep Dish</string>
+<string name="stuffed_label">Stuffed Crust</string>
+<string name="half_whole_label">Layout</string>
+<string name="half_label">Half and Half</string>
+<string name="whole_label">Whole</string>
+<string name="checkout_text">Your pizza will be ready for pick up in 15 minutes.</string>
+<string name="checkout_title">Thank you for your order!</string>
+    <string name="how_to_text">Following this message you will be given the option of your pizza
+ size, crust, and toppings.  If at any time you need help, press the menu button and select help, 
+ for hints on how to use the current screen.</string>
+<string name="add_ingredients_help">To add ingredients to the pizza, slide the pictures at 
+the top of the screen until the topping desired is shown.  Choose which side of the pizza, 
+left, right or whole,  you would like the topping on, and click the picture. "Whole"  adds 
+the topping to the entire pizza, while "Left" and "Right" only put the topping on that side.  
+To remove the item, simply click the picture again. Once all the items have been selected, select "Add to Cart".</string>
+<string name="edit_order_help">To add a new pizza to your order, select "Add New Pizza" and 
+follow the instructions that follow. To edit a pizza in your order, select which pizza you 
+would like to edit.  Once selected, click on "Edit Pizza" to edit the selected pizza. Once 
+you have completed your order, select "Checkout" to know the total and what time to pick up the order.</string>
+
+</resources>
